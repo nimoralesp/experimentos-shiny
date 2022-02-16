@@ -1,0 +1,13 @@
+name: experimentos-shiny
+title: experimentos-shiny
+username:
+account: generador-indicadores-ine
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5643839
+bundleId: 5574776
+url: https://generador-indicadores-ine.shinyapps.io/experimentos-shiny/
+when: 1644775096.78843
+lastSyncTime: 1644775096.78843
+asMultiple: FALSE
+asStatic: FALSE
